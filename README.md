@@ -2,7 +2,7 @@
 
 This Etch-A-Sketch is a Web-App where you can unleash your creativity & imagination and express it to the board. This web-app is a virtual representation of the real life etch-a-sketch toy.
 
-![Markdown Logo](./Logo-Etch-A-Sketch.png)
+![Markdown Logo](/public/assets/Logo-Etch-A-Sketch.png)
 
 ## How It's Made:
 
